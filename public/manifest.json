@@ -1,0 +1,45 @@
+{
+    "name": "Daily Reminders - Pet Care App",
+    "short_name": "Daily Reminders",
+    "description": "A lightweight productivity tool for pet parents to manage daily pet care routines",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f9fafb",
+    "theme_color": "#10b981",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "categories": [
+        "productivity",
+        "lifestyle"
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshot1.png",
+            "sizes": "640x1136",
+            "type": "image/png"
+        }
+    ]
+}
